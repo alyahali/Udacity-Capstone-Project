@@ -18,6 +18,7 @@ Data has been accessed from :
 In the repository, you can find: 
 - The notebook, which To quantify, compare, and visualize the impact of COVID-19 on the US stock market in the travel and entertainment sector, in addtion it demonstrate how to predict stock price step by step with LSTM network and a Simple Moving Average model was provided to compare the performance.<br>
 - you can find the detailed report for the work as pdf document.
+- link for the final report on Medium  https://medium.com/@aliah.ghannam/analysis-of-covid-19-impact-on-beach-stocks-and-price-prediction-6c78aa1c00f3
 
 ## Prerequisites
 - Pandas and Numpy: for data manipulation
